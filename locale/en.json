@@ -1,0 +1,9 @@
+{
+  "app.name": "Hello uni-app",
+  "home.title": "home page",
+  "home.home": "home page",
+  "task.title": "Task record",
+  "task.home": "task",
+  "vip.home": "vip",
+  "mine.home": "mine"
+}

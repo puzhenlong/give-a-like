@@ -1,3 +1,3 @@
-GAL
-give a like
-点赞系统
+#GAL
+##give a like
+###点赞系统
